@@ -1,0 +1,8 @@
+[run]
+branch = True
+concurrency = greenlet, thread
+parallel = True
+
+[report]
+skip_covered = True
+skip_empty = True
